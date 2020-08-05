@@ -1,0 +1,25 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter.css);
+@import url(../blocks/page/page.css);
+
+/* backgrounds-elements */
+
+@import url(../blocks/backgrounds-elements/backgrounds-elements.css);
+
+@import url(../blocks/backgrounds-elements/__ellipsis-grey/backgrounds-elements__ellipsis-grey.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-grey/_type/backgrounds-elements__ellipsis-grey_type_top.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-grey/_type/backgrounds-elements__ellipsis-grey_type_bottom.css);
+
+@import url(../blocks/backgrounds-elements/__ellipsis-red/backgrounds-elements__ellipsis-red.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-red/_type/backgrounds-elements__ellipsis-red_type_big.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-red/_type/backgrounds-elements__ellipsis-red_type_small.css);
+
+@import url(../blocks/backgrounds-elements/__ellipsis-white/backgrounds-elements__ellipsis-white.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-white/_type/backgrounds-elements__ellipsis-white_type_bottom.css);
+@import url(../blocks/backgrounds-elements/__ellipsis-white/_type/backgrounds-elements__ellipsis-white_type_top.css);
+
+/* header */
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__title/header__title.css);
