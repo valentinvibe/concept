@@ -1,0 +1,11 @@
+.main__header {
+    background-color: #1F2326;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 73px;
+    padding-right: 72px;
+    padding-bottom: 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+}

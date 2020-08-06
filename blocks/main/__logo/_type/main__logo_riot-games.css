@@ -1,0 +1,10 @@
+.main__logo_riot-games {
+    background-image: url(../../../../images/riot-games.svg);
+    width: 79px;
+    height: 40px;
+    background-repeat: no-repeat;
+    margin: 0 20px 0 0;
+    padding: 0 40px 0 0;
+    border-right: 1px solid #fff;
+    margin: auto;
+}

@@ -1,3 +1,5 @@
 .ellipsis-grey {
-    
+    background-color: #505155;
+    position: absolute;
+    border-radius: 50%;
 }

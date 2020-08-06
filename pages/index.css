@@ -23,3 +23,16 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__title/header__title.css);
+
+/* main */
+
+@import url(../blocks/main/main.css);
+@import url(../blocks/main/__header/main__header.css);
+@import url(../blocks/main/__content/main__content.css);
+@import url(../blocks/main/__footer/main__footer.css);
+@import url(../blocks/main/__navigation/main__navigation.css);
+@import url(../blocks/main/__link/main__link.css);
+
+@import url(../blocks/main/__logo/main__logo.css);
+@import url(../blocks/main/__logo/_type/main__logo_riot-games.css);
+@import url(../blocks/main/__logo/_type/main__logo_v.css);
