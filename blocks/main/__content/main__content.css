@@ -1,3 +1,8 @@
 .main__content {
-    
+    background-color: #FF4656;
+    background-image: url(../../../images/backgroundContent.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    box-sizing: border-box;
 }

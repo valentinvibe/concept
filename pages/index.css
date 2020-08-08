@@ -36,3 +36,7 @@
 @import url(../blocks/main/__logo/main__logo.css);
 @import url(../blocks/main/__logo/_type/main__logo_riot-games.css);
 @import url(../blocks/main/__logo/_type/main__logo_v.css);
+
+@import url(../blocks/main/__user/main__user.css);
+@import url(../blocks/main/__user/__avatar/user__avatar.css);
+@import url(../blocks/main/__user/__nickname/user__nickname.css);
