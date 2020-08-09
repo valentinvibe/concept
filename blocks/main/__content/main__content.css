@@ -1,8 +1,11 @@
 .main__content {
+    margin: 0;
+    padding: 0;
     background-color: #FF4656;
     background-image: url(../../../images/backgroundContent.png);
     background-size: cover;
     background-repeat: no-repeat;
-    min-height: 700px;
+    min-height: 800px;
     box-sizing: border-box;
+    position: relative;
 }

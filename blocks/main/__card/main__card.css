@@ -1,0 +1,11 @@
+.main__card {
+    background-color: #1F2326;
+    background: url(../../../images/stroke.svg) transparent;
+    overflow: hidden;
+    background-image: url(../../../images/phoenix.jpg);
+    width: 250px;
+    height: 480px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 20px;
+}

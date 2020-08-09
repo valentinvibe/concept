@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Portico Shadow';
+    font-style:  normal;
+    font-weight: 100;
+    /* font-display: swap; */
+    src: url("../fonts/Portico-Shadow.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: 'Portico Outline';
+    font-style:  normal;
+    font-weight: 100;
+    /* font-display: swap; */
+    src: url("../fonts/Portico-Outline.otf") format("opentype");
+  }
