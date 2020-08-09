@@ -1,0 +1,7 @@
+.main__cards {
+    position: relative;
+    left: 240px;
+    top: 30px;
+    display: flex;
+    
+}

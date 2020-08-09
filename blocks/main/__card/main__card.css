@@ -1,0 +1,9 @@
+.main__card {
+    background: url(../../../images/stroke.svg) , url(../../../images/phoenix.png);
+    overflow: hidden;
+    width: 210px;
+    height: 470px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 20px;
+}
